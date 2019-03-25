@@ -23,8 +23,14 @@
 
 #install
 git clone https://github.com/shanitarini/metasploit
+
+
 cd metasploit
+
+
 bash metasploit.sh
+
+
 bash fix-ruby-bigdecimal.sh.txt
 
 #Usage
