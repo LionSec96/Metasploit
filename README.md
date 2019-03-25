@@ -39,7 +39,7 @@ bash fix-ruby-bigdecimal.sh.txt
 EX:
 $msfconsole
 
-EX:
+
 
 
 #Note
